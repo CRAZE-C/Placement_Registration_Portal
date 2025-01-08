@@ -1,7 +1,4 @@
-Of course! Here's a comprehensive README template for your project to upload to GitHub:
-
 ---
-
 # BIT Information Portal
 
 ## Table of Contents
@@ -16,7 +13,7 @@ Of course! Here's a comprehensive README template for your project to upload to 
 - [Contact](#contact)
 
 ## Project Overview
-The BIT Information Portal is a web application for students and administrators of Bannari Amman Institute of Technology. The portal allows users to log in, view dashboards, apply to companies, and view applications. It features distinct functionalities for both students and admins to ensure smooth and efficient interaction with the system.
+The BIT Information Portal is a web application for Bannari Amman Institute of Technology students and administrators. It allows users to log in, view dashboards, apply to companies, and view applications. The portal features distinct functionalities for both students and admins to ensure smooth and efficient interaction with the system.
 
 ## Features
 - **Login Page**: Users can log in using their email and name.
@@ -26,7 +23,7 @@ The BIT Information Portal is a web application for students and administrators 
   - View applied companies.
 - **Admin Dashboard**:
   - Add companies and eligibility criteria.
-  - View list of students who have applied to companies.
+  - View a list of students who have applied to companies.
 - **Profile Management**: Manage profile picture and other details.
 - **Responsive Design**: The application is designed to be responsive and user-friendly.
 
@@ -39,7 +36,7 @@ The BIT Information Portal is a web application for students and administrators 
 ## Setup Instructions
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/bit-information-portal.git
+    git clone https://github.com/CRAZE-C/bit-information-portal.git
     cd bit-information-portal
     ```
 
@@ -50,13 +47,13 @@ The BIT Information Portal is a web application for students and administrators 
 
 3. **Start the development server**:
     ```bash
-    npm start
+    npm run dev
     ```
 
 4. **Open your browser** and navigate to `http://localhost:3000` to view the application.
 
 ## Usage
-- **Login**: Enter your email and name on the login page to navigate to the appropriate dashboard.
+- **Login**: Enter your email(user@gmail.com OR admin@gmail.com) and name on the login page to navigate to the appropriate dashboard.
 - **Student Dashboard**: View and apply to companies. Applied companies will be listed under "Applied Companies".
 - **Admin Dashboard**: Add new companies and eligibility criteria. View students who have applied to each company under "Registrations".
 
@@ -92,10 +89,7 @@ bit-information-portal/
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 If you have any questions or feedback, please feel free to reach out:
-- **Email**: dharan@example.com
-- **GitHub**: [your-username](https://github.com/CRAZE-C)
+- **Email**: dharanraj1010@gmail.com
+- **GitHub**: [CRAZE-C](https://github.com/CRAZE-C)
