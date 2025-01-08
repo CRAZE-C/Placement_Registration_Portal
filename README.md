@@ -59,10 +59,9 @@ The BIT Information Portal is a web application for Bannari Amman Institute of T
 
 ## Folder Structure
 ```
-bit-information-portal/
+Placement-Registration/
+├── node_modules/
 ├── public/
-│   ├── index.html
-│   └── ...
 ├── src/
 │   ├── assets/
 │   │   └── profileimage.jpg
@@ -71,19 +70,32 @@ bit-information-portal/
 │   │   ├── CompanyForm.jsx
 │   │   ├── Header.jsx
 │   │   ├── HomePage.jsx
-│   │   ├── LoginPage.jsx
 │   │   ├── ProfileModal.jsx
+│   │   ├── RegistrationForm.jsx
+│   │   ├── StudentApplications.jsx
 │   │   ├── StudentDashboard.jsx
-│   │   └── ...
+│   │   ├── AdminDashboard.css
+│   │   ├── CompanyForm.css
+│   │   ├── Header.css
+│   │   ├── HomePage.css
+│   │   ├── ProfileModal.css
+│   │   ├── RegistrationForm.css
+│   │   ├── StudentApplications.css
+│   │   └── StudentDashboard.css
 │   ├── context/
 │   │   └── CompaniesContext.jsx
+│   ├── pages/
+│   │   ├── Admin.jsx
+│   │   ├── Student.jsx
+│   ├── LoginPage.css
+│   ├── LoginPage.jsx
 │   ├── App.jsx
 │   ├── index.css
-│   ├── index.js
-│   └── ...
+│   └── main.jsx
 ├── package.json
 ├── README.md
 └── ...
+
 ```
 
 ## Contributing
