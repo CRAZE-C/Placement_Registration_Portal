@@ -53,7 +53,7 @@ The BIT Information Portal is a web application for Bannari Amman Institute of T
 4. **Open your browser** and navigate to `http://localhost:3000` to view the application.
 
 ## Usage
-- **Login**: Enter your email(user@gmail.com OR admin@gmail.com) and name on the login page to navigate to the appropriate dashboard.
+- **Login**: Enter email(user@gmail.com OR admin@gmail.com) and name on the login page to navigate to the appropriate dashboard.
 - **Student Dashboard**: View and apply to companies. Applied companies will be listed under "Applied Companies".
 - **Admin Dashboard**: Add new companies and eligibility criteria. View students who have applied to each company under "Registrations".
 
