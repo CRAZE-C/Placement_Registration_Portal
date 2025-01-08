@@ -1,0 +1,43 @@
+.applications {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-grow: 0;
+    flex-shrink: 0;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.company-section {
+    max-width: 100px;
+    min-width: 50px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    background: white;
+    text-align: center;
+}
+
+.company-section h3 {
+    margin: 0 0 10px 0;
+}
+
+.company-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.company-section ul li {
+    margin: 5px 0;
+}
+
+@media (max-width: 768px) {
+    .company-section {
+        padding: 10px;
+    }
+}
