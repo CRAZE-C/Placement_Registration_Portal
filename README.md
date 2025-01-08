@@ -114,4 +114,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 If you have any questions or feedback, please feel free to reach out:
 - **Email**: dharanraj1010@gmail.com
 - **GitHub**: [CRAZE-C](https://github.com/CRAZE-C)
->>>>>>> origin/main
