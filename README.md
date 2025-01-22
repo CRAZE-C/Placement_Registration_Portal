@@ -22,7 +22,7 @@ Currently, two official plugins are available:
 - [Contact](#contact)
 
 ## Project Overview
-The BIT Information Portal is a web application for Bannari Amman Institute of Technology students and administrators. It allows users to log in, view dashboards, apply to companies, and view applications. The portal features distinct functionalities for both students and admins to ensure smooth and efficient interaction with the system.
+The BIT Registration Portal is a web application for Bannari Amman Institute of Technology students and administrators. It allows users to log in, view dashboards, apply to companies, and view applications. The portal features distinct functionalities for both students and admins to ensure smooth and efficient interaction with the system.
 
 ## Features
 - **Login Page**: Users can log in using their email and name.
